@@ -130,7 +130,7 @@ Xylo for Windows, Xylo for Windows setup, MSVC projects developed under:
 About Allegro and Wiiuse manuals, can be found on the web, or go to:
 
 Allegro		www.allegro.cc
-Wiiuse		wiiuse.net
+Wiiuse		www.wiiuse.net
 
 
 --------------------------
